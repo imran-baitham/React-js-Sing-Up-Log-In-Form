@@ -1,0 +1,40 @@
+.Sunbmit__forms {
+  background-color: rgba(0, 0, 0, 0.39);
+  width: 100%;
+  height: auto;
+}
+.log__in {
+  padding: 60px 38%;
+}
+.login_style {
+  width: 313px;
+  height: auto;
+  padding: 4%;
+  background-color: rgb(240, 240, 240);
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+  padding: 5% 0px;
+  font-family: sans-serif;
+}
+.north__aims {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.sign__out {
+  padding: 60px 38%;
+}
+.signin_style {
+  width: 313px;
+  height: auto;
+  padding: 4%;
+  background-color: rgb(240, 240, 240);
+}
+.href{
+  float: right;
+  font-size: 15px;
+  color: black;
+}
