@@ -1,6 +1,6 @@
 import "./log.css";
 import image from "../Images/authentication.svg";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Signup from "../SignUpForm/SingUp";
 
 const LogForm = () => {
